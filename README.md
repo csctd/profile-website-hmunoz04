@@ -4,8 +4,8 @@ This is is a template for a resume/ personal portfolio, built with Sphinx! Based
 
 This template is designed for use with the [ml4sts lab]
 <!-- link instructions -->
-
-
+## Tips for Updating the Content of this site
+Conf.py is required
 ## To work with this repo offline
 The easiest way to build the website is to use `nox`, which handles all of the environment generation automatically.
 To do so, follow these steps:
